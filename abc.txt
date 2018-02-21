@@ -1,1 +1,2 @@
 This is my first file.
+can we restict collaborator to perform specific operation on owner repo??? what kind of access restrion can we add on owner repo??
