@@ -1,8 +1,13 @@
+
+This is my first file.
+ 
 Sreenivas opened second time this file. This is my first file.
 
 This is to show how pull can be used to merge the 2 branches
-
+ 
 This is my second commit
+ 
+Changes made by anjali
 
 Commit is going to happen from anoop.....
 
@@ -15,4 +20,3 @@ Pushed changes.
 This is GIT training
 
 this is testing
-
