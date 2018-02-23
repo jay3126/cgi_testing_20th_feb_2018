@@ -1,4 +1,4 @@
-This is my first file.
+Sreenivas opened second time this file. This is my first file.
 
 This is to show how pull can be used to merge the 2 branches
 
@@ -6,3 +6,7 @@ This is my second commit
 
 Changes made on abc.txt on branch abhishek.
 Pushed changes.
+
+This is GIT training
+
+this is testing
