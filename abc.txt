@@ -1,9 +1,15 @@
-This is my first file.
+Sreenivas opened second time this file. This is my first file.
 
 This is to show how pull can be used to merge the 2 branches
 
 This is my second commit
 
+
 Commit is going to happen from anoop.....
 
 again anoop is adding line
+
+This is GIT training
+
+this is testing
+
