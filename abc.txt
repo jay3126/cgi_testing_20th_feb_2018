@@ -3,3 +3,7 @@ This is my first file.
 This is to show how pull can be used to merge the 2 branches
 
 This is my second commit
+
+This is GIT training
+
+this is testing
